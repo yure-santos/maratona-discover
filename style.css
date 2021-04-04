@@ -103,11 +103,6 @@ header {
   text-align: center;
 }
 
-#logo {
-  color: #fff;
-  font-weight: 100;
-}
-
 /* Balance */
 
 #balance {
@@ -201,6 +196,10 @@ td.income {
 
 td.expense {
   color: var(--red);
+}
+
+td.remove {
+  text-align: right;
 }
 
 /* Modal */
